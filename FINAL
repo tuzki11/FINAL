@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang= "en"> 
+    <body background="file:///C:/Users/Marin/Desktop/NESTTY/wow.jpg">
+    <style>
+        body{
+            text-align: center;
+            background-repeat:no-repeat;
+            background-size: cover;
+        }
+        p:hover{
+        background-color: rgba rgb(255,196,221);
+        }
+
+        p:hover{
+        background-color: rgba rgb(255,196,221);
+        } 
+
+        h1:hover{
+        background-color: rgb argb(255,196,221);
+        }
+        </style>
+
+    
+
+     <a  href ="ACTIVITY2.html"target=_blank> <img src ="file:///C:/Users/Marin/Desktop/NESTTY/haha.jpg"
+     alt ="ACTIVITY2" width= "100" height= "70"> </a>
+     <h1 center="center"style="color:red"> ACTIVITY2 </h1>
+     
+ 
+
+
+     <a  href ="ACTIVITY3.html"target=blank> <img src = "file:///C:/Users/Marin/Desktop/NESTTY/haha.jpg"
+     alt="ACTIVITY3" width= "100" height="70"> </a>
+     <h1 center ="center" style="color:red"> ACTIVITY3 </h1>
+
+
+
+ <a href ="ACTIVITY4.html"target=_blank> <img src="file:///C:/Users/Marin/Desktop/NESTTY/haha.jpg" 
+     alt ="ACTIVITY4" width="100" height= "70"> </a>
+     <h1 center ="center" style="color:red"> ACTIVITY4 </h1>    
+
+
+
+  <a href ="ACTIVITY5.html"target=_blank> <img src="file:///C:/Users/Marin/Desktop/NESTTY/haha.jpg"
+    alt ="ACTIVITY5" width="100" height= "70"> </a>
+    <h1 center ="center" style="color:red"> ACTIVITY5 </h1>    
+
+
+     
+
+    </body>
+      <style>
+      ion-icon { font-size: 64px; color: lightyellow; }
+
+</style>
+      <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"> </script>
+      <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"> </script>
+</html>
+</body>
+</html>
